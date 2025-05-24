@@ -5,7 +5,7 @@ package com.Arithmetic;
 
 /**
  * @author Kunal
- * This code is to show how arithmetic operators are used in Java
+ * This code is to show how arithmetic operators are used in Java. Updated Description
  */
 public class Arithmetic_Operators
 {
