@@ -16,10 +16,13 @@
       <option value="repository" />
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="develop" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Sandeep" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +73,7 @@
   "keyToString": {
     "Application.Arithmetic_Operators.executor": "Run",
     "Application.Boolean.executor": "Run",
+    "Application.com.Arithmetic.Arithmetic_Operators.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -90,9 +94,12 @@
       <recent name="C:\Users\Kunal Chavan\IdeaProjects\JavaForQA\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Boolean">
+  <component name="RunManager" selected="Application.com.Arithmetic.Arithmetic_Operators">
     <configuration name="Arithmetic_Operators" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Operators.com.Arithmetic.Arithmetic_Operators" />
+      <module name="JavaForQA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Operators.com.Arithmetic.*" />
@@ -109,6 +116,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.Arithmetic.Arithmetic_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.Arithmetic.Arithmetic_Operators" />
+      <module name="JavaForQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.Arithmetic.Arithmetic_Operators" />
+        <item itemvalue="Application.com.Arithmetic.Arithmetic_Operators" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -190,7 +218,6 @@
       <option name="project" value="LOCAL" />
       <updated>1748107690722</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
     <task id="LOCAL-00010" summary="JIRA-1234: updated project structure">
       <option name="closed" value="true" />
       <created>1748107816119</created>
@@ -207,7 +234,7 @@
       <option name="project" value="LOCAL" />
       <updated>1748107857554</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +262,6 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
             <State>
               <option name="FILTERS">
                 <map>
