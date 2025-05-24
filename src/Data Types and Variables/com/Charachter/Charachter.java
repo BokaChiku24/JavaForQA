@@ -17,5 +17,9 @@ public class Charachter
 
 		// Print the value of char variable
 		System.out.println("Charachter is: " + a);
+
+		char c;
+
+		c = 'd';
 	}
 }

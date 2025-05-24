@@ -20,5 +20,8 @@ public class Boolean
 		// Change the value of boolean variable
 		flag1 = false;
 		System.out.println("First Flag: " + flag1);
+
+		boolean flag2 = false;
+		System.out.println("Second Flag" + flag2);
 	}
 }
