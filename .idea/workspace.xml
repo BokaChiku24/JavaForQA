@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2c08f03-3099-4fd6-a667-08c23770794a" name="Changes" comment="JIRA-1234: updated project structure">
+      <change beforePath="$PROJECT_DIR$/src/Data Types and Variables/com/Boolean/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Types and Variables/com/Boolean/Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data Types and Variables/com/Charachter/Charachter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Types and Variables/com/Charachter/Charachter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Sandeep" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDODD-RPc6Xf71W",
+        "number": 3
+      },
+      "lastSeen": 1748093148757
+    },
+    {
+      "id": {
+        "id": "PR_kwDODD-RPc6Xf9od",
+        "number": 4
+      },
+      "lastSeen": 1748093976429
+    }
+  ]
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BokaChiku24/JavaForQA.git",
+    "accountId": "913c912e-1e4b-409b-adc2-60d499a61964"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2xXiapFReLXdLrkyd5zoDHh5llu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arithmetic_Operators.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "onboarding.tips.debug.path": "C:/Users/Kunal Chavan/IdeaProjects/JavaForQA/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kunal Chavan\IdeaProjects\JavaForQA\src" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c08f03-3099-4fd6-a667-08c23770794a" name="Changes" comment="" />
+      <created>1748090885217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748090885217</updated>
+    </task>
+    <task id="LOCAL-00001" summary="JIRA-1234: incorporated review comment in PR#2.">
+      <option name="closed" value="true" />
+      <created>1748091318122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748091318122</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JIRA-1234: added new variable">
+      <option name="closed" value="true" />
+      <created>1748092482539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748092482539</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JIRA-1234: added new variable">
+      <option name="closed" value="true" />
+      <created>1748092636928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748092636928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JIRA-1234: added new variable">
+      <option name="closed" value="true" />
+      <created>1748092672323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748092672323</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JIRA-1234: added comment">
+      <option name="closed" value="true" />
+      <created>1748093393816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748093393816</updated>
+    </task>
+    <task id="LOCAL-00006" summary="JIRA-1234: added new variable">
+      <option name="closed" value="true" />
+      <created>1748093492913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748093492913</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JIRA-1234: updated project structure">
+      <option name="closed" value="true" />
+      <created>1748094668901</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748094668901</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Kunal Chavan" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Kunal" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JIRA-1234: incorporated review comment in PR#2." />
+    <MESSAGE value="JIRA-1234: added comment" />
+    <MESSAGE value="JIRA-1234: added new variable" />
+    <MESSAGE value="JIRA-1234: updated project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="JIRA-1234: updated project structure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
