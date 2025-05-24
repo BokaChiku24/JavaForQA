@@ -12,7 +12,7 @@ public class Arithmetic_Operators
 {
 	public static void main(String... args)
 	{
-		int a, b = 10, c = 5, d=10;
+		int a, b = 10, c = 5, d=10, e =15;
 		a = b + c;
 		System.out.println("Value of 'a' after '+' Arithmetic operation is " + a);
 		a = b - c;
