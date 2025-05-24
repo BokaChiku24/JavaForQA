@@ -1,0 +1,97 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e2c08f03-3099-4fd6-a667-08c23770794a\" name=\"Changes\" comment=\"JIRA-1234: updated project structure\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/Data Types and Variables/com/Boolean/Boolean.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Data Types and Variables/com/Boolean/Boolean.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Data Types and Variables/com/Charachter/Charachter.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Data Types and Variables/com/Charachter/Charachter.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ChangesViewManager\">\r\n    <option name=\"groupingKeys\">\r\n      <option value=\"directory\" />\r\n      <option value=\"repository\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Sandeep\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"history\": [\r\n    {\r\n      \"state\": \"OPEN\"\r\n    }\r\n  ],\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GitHubPullRequestState\"><![CDATA[{\r\n  \"prStates\": [\r\n    {\r\n      \"id\": {\r\n        \"id\": \"PR_kwDODD-RPc6Xf71W\",\r\n        \"number\": 3\r\n      },\r\n      \"lastSeen\": 1748093148757\r\n    },\r\n    {\r\n      \"id\": {\r\n        \"id\": \"PR_kwDODD-RPc6Xf9od\",\r\n        \"number\": 4\r\n      },\r\n      \"lastSeen\": 1748093976429\r\n    }\r\n  ]\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/BokaChiku24/JavaForQA.git\",\r\n    \"accountId\": \"913c912e-1e4b-409b-adc2-60d499a61964\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 1\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2xXiapFReLXdLrkyd5zoDHh5llu\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Arithmetic_Operators.executor\": \"Debug\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"develop\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/Kunal Chavan/IdeaProjects/JavaForQA/src/Main.java\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Kunal Chavan\\IdeaProjects\\JavaForQA\\src\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e2c08f03-3099-4fd6-a667-08c23770794a\" name=\"Changes\" comment=\"\" />\r\n      <created>1748090885217</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1748090885217</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"JIRA-1234: incorporated review comment in PR#2.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1748091318122</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1748091318122</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"JIRA-1234: added new variable\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1748092482539</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1748092482539</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"JIRA-1234: added new variable\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1748092636928</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1748092636928</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"JIRA-1234: added new variable\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1748092672323</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1748092672323</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"JIRA-1234: added comment\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1748093393816</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1748093393816</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"JIRA-1234: added new variable\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1748093492913</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1748093492913</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"JIRA-1234: updated project structure\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1748094668901</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1748094668901</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"User\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"Kunal Chavan\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"Kunal\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"JIRA-1234: incorporated review comment in PR#2.\" />\r\n    <MESSAGE value=\"JIRA-1234: added comment\" />\r\n    <MESSAGE value=\"JIRA-1234: added new variable\" />\r\n    <MESSAGE value=\"JIRA-1234: updated project structure\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"JIRA-1234: updated project structure\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>\r\n          <line>16</line>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>\r\n          <line>19</line>\r\n          <option name=\"timeStamp\" value=\"4\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>\r\n          <line>21</line>\r\n          <option name=\"timeStamp\" value=\"5\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Operators/com/Arithmetic/Arithmetic_Operators.java</url>\r\n          <line>23</line>\r\n          <option name=\"timeStamp\" value=\"6\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6fc839e968f971517ebe817df1c2e05de3c312bb)
++++ b/.idea/workspace.xml	(date 1748106933998)
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e2c08f03-3099-4fd6-a667-08c23770794a" name="Changes" comment="JIRA-1234: updated project structure">
+-      <change beforePath="$PROJECT_DIR$/src/Data Types and Variables/com/Boolean/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Types and Variables/com/Boolean/Boolean.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Data Types and Variables/com/Charachter/Charachter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data Types and Variables/com/Charachter/Charachter.java" afterDir="false" />
+-    </list>
++    <list default="true" id="e2c08f03-3099-4fd6-a667-08c23770794a" name="Changes" comment="JIRA-1234: updated project structure" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -27,43 +24,43 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "history": [
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;history&quot;: [
+     {
+-      "state": "OPEN"
++      &quot;state&quot;: &quot;OPEN&quot;
+     }
+   ],
+-  "lastFilter": {
+-    "state": "OPEN"
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;
+   }
+-}]]></component>
+-  <component name="GitHubPullRequestState"><![CDATA[{
+-  "prStates": [
++}</component>
++  <component name="GitHubPullRequestState">{
++  &quot;prStates&quot;: [
+     {
+-      "id": {
+-        "id": "PR_kwDODD-RPc6Xf71W",
+-        "number": 3
++      &quot;id&quot;: {
++        &quot;id&quot;: &quot;PR_kwDODD-RPc6Xf71W&quot;,
++        &quot;number&quot;: 3
+       },
+-      "lastSeen": 1748093148757
++      &quot;lastSeen&quot;: 1748093148757
+     },
+     {
+-      "id": {
+-        "id": "PR_kwDODD-RPc6Xf9od",
+-        "number": 4
++      &quot;id&quot;: {
++        &quot;id&quot;: &quot;PR_kwDODD-RPc6Xf9od&quot;,
++        &quot;number&quot;: 4
+       },
+-      "lastSeen": 1748093976429
++      &quot;lastSeen&quot;: 1748093976429
+     }
+   ]
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/BokaChiku24/JavaForQA.git",
+-    "accountId": "913c912e-1e4b-409b-adc2-60d499a61964"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/BokaChiku24/JavaForQA.git&quot;,
++    &quot;accountId&quot;: &quot;913c912e-1e4b-409b-adc2-60d499a61964&quot;
+   }
+-}]]></component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 1
+-}]]></component>
++}</component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 1
++}</component>
+   <component name="ProjectId" id="2xXiapFReLXdLrkyd5zoDHh5llu" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+@@ -74,7 +71,6 @@
+     "Application.Arithmetic_Operators.executor": "Debug",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "develop",
+     "onboarding.tips.debug.path": "C:/Users/Kunal Chavan/IdeaProjects/JavaForQA/src/Main.java",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.15",
